@@ -18,6 +18,19 @@ This app allows users to enter English text and translate it into multiple langu
   * German
   * Japanese
   * Kannada
+  * Telugu
+  * Malayalam
+  * Italian
+  * Portuguese
+  * Russian
+  * Chinese
+  * Korean
+  * Arabic
+  * Bengali
+  * Urdu
+  * Indonesian
+  * Turkish
+  * Dutch
 * Real-time API-based translation
 * Built with modern frontend tools
 

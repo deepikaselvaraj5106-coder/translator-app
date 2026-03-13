@@ -128,6 +128,12 @@ Hello, how are you?
 ```
 नमस्ते आप कैसे हैं?
 ```
+
+## Live Demo
+```
+https://translator-app-8sci.vercel.app/
+```
+
 👩‍💻 Author
 
 Deepika Selvaraj
